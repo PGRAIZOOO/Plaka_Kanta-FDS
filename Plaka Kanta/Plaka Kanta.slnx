@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Plaka Kanta.vbproj" Id="3021ed53-2931-4d9b-a896-c233c72000de">
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
+</Solution>
